@@ -22,3 +22,27 @@ Uma API para realizar transações bancárias.
 - [x] - Não deve ser possível fazer saque quando o saldo for insuficiente;
 - [x] - Deve ser possível retornar o balanço
 
+<h2 align="left" id="status">Status do Projeto</h2>
+<p align="left"> 🚧  NextJS 🚀 Concluído.  🚧.</p>
+
+<h2 align="left" id="autor">🦸 Autor</h2>
+<a href="https://github.com/JailsonSantos">
+ <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/11697713?s=96&v=4" width="100px;" alt=""/>
+ <br />
+ <sub><b>Jailson Santos</b></sub></a> <a href="https://www.linkedin.com/in/jailson-santos-726395104/" title="Jailson Santos">🚀</a>
+ <br />
+
+[![Linkedin Badge](https://img.shields.io/badge/-Jailson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jailson-santos-726395104/)](https://www.linkedin.com/in/jailson-santos-726395104/) 
+[![Gmail Badge](https://img.shields.io/badge/-jailson.ads007@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jailson.ads007@gmail.com)](mailto:jailson.ads007@gmail.com)
+
+
+<h2 align="left" id="licenca">🔗 Link do Portfólio online</h2>
+
+[Portfolio](https://my-portfolio-jailsonsantos.vercel.app/)
+
+
+<h2 align="left" id="licenca">📝 Licença</h2>
+
+Este projeto esta sobe a licença [MIT](./LICENSE).
+
+Feito com ❤️ por Jailson Santos 👋🏽 [Entre em contato!](https://www.linkedin.com/in/jailson-santos-726395104/)
