@@ -1,5 +1,8 @@
 ## LinsFinancesApi - Api Financeira
 
+### Sobre
+Uma API para realizar transações bancárias.
+
 ### Requisitos
 - [x] - Deve ser possível criar uma conta;
 - [x] - Deve ser possível buscar o extrato bancário do cliente;
