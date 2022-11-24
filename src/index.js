@@ -26,7 +26,7 @@ function verifyIfExistsAccountCPF(request, response, next) {
   return next(); // Caso esteja tudo correto no Middleware, o next prosegue;
 }
 
-// Functions
+// Functions para calcular o saldo do cliente
 function getBalance(statement) {
   const balance = statement.reduce((accumulation, operation) => {
     if (operation.type === 'credit') {
@@ -43,7 +43,7 @@ function getBalance(statement) {
 app.post('/account', (request, response) => {
   const { cpf, name } = request.body;
 
-  // Faz uma busca no array Customers, para saber se o cpf já existe, e retorna (TRUE ou FALSE);
+  // Faz uma busca com (SOME) no array Customers, para saber se o cpf já existe, e retorna (TRUE ou FALSE);
   const customersAlreadyExist = customers.some((customer) => customer.cpf === cpf);
 
   if (customersAlreadyExist) {
